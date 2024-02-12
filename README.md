@@ -10,4 +10,4 @@ date: String: This is the date of the picture in YYYY-MM-DD format. The default 
 
 ## Way to use:
 You can just use the curl command to use it:
-curl https://api.nasa.gov/planetary/apod?api_key=<use your key>&date=<currentDate>
+curl https://api.nasa.gov/planetary/apod?api_key=(use your key)&date=(currentDate)
